@@ -1,0 +1,22 @@
+1. PyMuPDF for Pdf to Text conversion
+2. NLTK for text processing
+3. RE for search
+
+####Installation Command############
+pip install PyMuPDF
+pip install nltk
+pip isnall re
+pip insatll pandas
+pip install numpy
+
+
+####################################
+import fitz 
+import re
+import nltk
+import pandas as pd
+import numpy as np
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import confusion_matrix
