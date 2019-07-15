@@ -2,6 +2,7 @@
 2. NLTK for text processing
 3. RE for search
 4. 20% Data is used for testing purpose
+5. These are sample output text file: BOE.text, INVOICE.text, PACKING_LIST.text
 
 ####Installation Command############
 pip install PyMuPDF
