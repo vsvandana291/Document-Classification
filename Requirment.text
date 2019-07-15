@@ -1,6 +1,7 @@
 1. PyMuPDF for Pdf to Text conversion
 2. NLTK for text processing
 3. RE for search
+4. 20% Data is used for testing purpose
 
 ####Installation Command############
 pip install PyMuPDF
