@@ -4,6 +4,9 @@
 4. 20% Data is used for testing purpose
 5. These are sample output text file: BOE.text, INVOICE.text, PACKING_LIST.text
 
+IDE: Anaconda Navigator 1.9.2
+Python 3.6
+
 ####Installation Command############
 pip install PyMuPDF
 pip install nltk
